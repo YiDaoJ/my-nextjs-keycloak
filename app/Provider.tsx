@@ -1,6 +1,5 @@
 'use client'
 
-import { minutesInSeconds } from "@/utils/time";
 import { SessionProvider } from "next-auth/react"
 import { ReactNode } from "react"
 
